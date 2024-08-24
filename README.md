@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1fbeb275-0f7b-4b81-8b4a-e0d59f326325)# Spark Pet - 您的互动桌面伙伴
+# Spark Pet - 您的互动桌面伙伴
 
 Spark Pet 是一个有趣且的桌面应用程序，它将一个生动的虚拟角色带到了您的工作空间。这个应用程序使用 PyQt5 编写，具有一个动画角色，可以轻松地在屏幕上移动和与之互动，无论是在工作中提供愉快的消遣还是作为一个可爱的伙伴。
 
